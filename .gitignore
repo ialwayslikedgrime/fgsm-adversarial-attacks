@@ -1,0 +1,13 @@
+# Mac junk
+.DS_Store
+
+# MNIST data (too large, auto-downloads anyway)
+data/
+
+# Model weights (large binary)
+model/
+
+# Jupyter clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
